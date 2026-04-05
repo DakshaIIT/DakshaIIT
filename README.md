@@ -1,5 +1,5 @@
 # Hi there, I'm Daksha Sumanadas 👋
-**Software Engineering Student | QA Enthusiast**
+**Software Engineering Student | QA Enthusiast | AI Enthusiast |**
 
 I am a passionate Software Engineering student focused on building robust, end-to-end applications and ensuring high-quality software through rigorous testing. Currently, I am refining my skills in **Full-Stack Development** and database management while actively seeking a **Software Engineering or QA Internship**.
 
@@ -37,9 +37,10 @@ I am a passionate Software Engineering student focused on building robust, end-t
 ---
 
 ### 📊 GitHub Stats
-![Daksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DakshaIIT&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DakshaIIT&layout=compact&theme=radical)
+![Daksha's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DakshaIIT&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DakshaIIT&layout=compact&theme=radical)
 
 ![Daksha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DakshaIIT&theme=radical)
 
