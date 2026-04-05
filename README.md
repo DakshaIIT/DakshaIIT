@@ -38,12 +38,13 @@ I am a passionate Software Engineering student focused on building robust, end-t
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DakshaIIT&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DakshaIIT&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** linkedin.com/in/daksha-sumanadas
+* **LinkedIn:** [linkedin.com/in/daksha-sumanadas](https://www.linkedin.com/in/daksha-sumanadas)
 * **Email:** dakshasumanadas14@gmail.com
 
 ---
