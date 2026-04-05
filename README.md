@@ -43,8 +43,8 @@ I am a passionate Software Engineering student focused on building robust, end-t
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** [linkedin.com/in/YOUR-PROFILE-SLUG](https://linkedin.com/in/YOUR-PROFILE-SLUG)
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
+* **LinkedIn:** linkedin.com/in/daksha-sumanadas
+* **Email:** dakshasumanadas14@gmail.com
 
 ---
 
